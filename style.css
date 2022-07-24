@@ -133,11 +133,11 @@ html, body {
 }
 
 .appDownload:nth-child(1) {
-  background-image: url('./img/apple-button.png');
+  background-image: url('./assets/apple-button.png');
 }
 
 .appDownload:nth-child(2) {
-  background-image: url('./img/googleplay-button.png');
+  background-image: url('./assets/googleplay-button.png');
 }
 
 @media (max-width: 1200px) {
